@@ -1,6 +1,7 @@
 # TOEx
 Theory of Exchange — a unified framework of interaction across physics, cognition, and social
 # 🌌 Theory of Exchange (TOEx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16090527.svg)](https://doi.org/10.5281/zenodo.16090527)
 
 **Author:** Dr. Thin Aung Htwe (Python)  
 **DOI:** [https://doi.org/10.5281/zenodo.15827632](https://doi.org/10.5281/zenodo.15827632)  
@@ -63,3 +64,9 @@ To be defined (MIT or Creative Commons preferred).
 No license has been applied yet.  
 All rights reserved by the author.  
 If you'd like to reuse, reproduce, or collaborate, please contact directly.
+
+## 📚 Citation
+
+If you use this work or refer to Polypragmatism, please cite:
+
+Thin Aung Htwe (Python). *Polypragmatism: A Manifesto of Exchange and Meaning*. Zenodo. https://doi.org/10.5281/zenodo.16090527
